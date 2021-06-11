@@ -1,8 +1,6 @@
 # CSV Sum Project - SERVER | By: James Boushell
 
-![App Preview](/public/preview.png?raw=true)
-
-
+This is the simple REST API built for the CSV Sum challenge. This was built to handle larger files on the server in a streaming fashion to lessen the load on client's systems. 
 
 ## Instructions
 
